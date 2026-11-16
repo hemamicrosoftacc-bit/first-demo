@@ -1,0 +1,15 @@
+
+# Azure Logic Apps and Functions generated artifacts
+**/bin/
+**/obj/
+**/.debug/
+**/__blobstorage__/
+**/__queuestorage__/
+**/__azurite_db*__.json
+
+# Local configuration and secrets
+**/local.settings.json
+**/appsettings.json
+
+# Development files
+*.code-workspace
